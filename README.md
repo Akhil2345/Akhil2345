@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Akhil2345
 - 👀 I’m interested in Blockchain...
-- 🌱 I’m currently working and learning on frontend, Web3 and Blockchain
-both it's technology as well as it's financial aspects ..
+- 🌱 I’m currently working and learning on frontend, Web3 and Blockchain and on Quantitaive Finance
+both on  it's technology as well as it's financial aspects ..
 - 💞️ ’m looking to collaborate on Creating a "BASS" Project INVOLVING PRIVATE BLOCKCHAIN 
 IN MAJOR Domains.
 - 📫 How to reach me via akhilkumarpolmarsetti@gmail.com.
