@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Akhil2345
 - 👀 I’m interested in Blockchain and Qunat Trading and AI 
-- 🌱 I’m currently working and learning on frontend, Web3 and Blockchain and on Quantitaive Finance
+- 🌱 I’m currently working Ai agents  and Blockchain and on Quantitaive Finance
 both on  it's technology as well as it's financial aspects ..
 - 💞️ ’m looking to collaborate on Creating a "BASS" Project INVOLVING PRIVATE BLOCKCHAIN 
 IN MAJOR Domains.
